@@ -18,7 +18,7 @@
             <!-- HOME SLIDER -->
             <div id="home-slider">
                 <div>
-                    <img src="images/photos/flooring_1.jpg" alt="">
+                    <img src="images/photos/flooring_2.jpg" alt="">
                     <div class="ns_slideContent">
                         <div><span>Krono - Flooring</span>
                         </div>

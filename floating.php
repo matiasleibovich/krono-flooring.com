@@ -38,13 +38,13 @@
                     <article class="gallerycontainer right-img">
                         <!-- POST IMAGE -->
                         <div class="galleryimage projectimage" data-image="images/photos/danek_800x400.jpg">
-                            <a href="single-project.html"></a>
+                            <a href="dankel.php"></a>
                         </div>
                         <!-- POST CONTENT -->
                         <div class="gallerycontent">
-                            <h4><a href="single-project.html">Dankel Flooring</a></h4>
+                            <h4><a href="dankel.php">Dankel Flooring</a></h4>
                             <p><?=$dict[$_SESSION['language']]['products_featured_dankel_description']?></p>
-                            <a href="single-project.html" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
+                            <a href="dankel.php" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
                         </div>
                     </article>
 

@@ -36,9 +36,6 @@
 	$dict['ES']['products_title'] = 'Nuestros Productos';
 	$dict['EN']['products_title'] = 'Our Products';
 	$dict['BR']['products_title'] = 'Produtos';
-	$dict['ES']['products_featured_title'] = 'Productos Destacados';
-	$dict['EN']['products_featured_title'] = 'Featured Products';
-	$dict['BR']['products_featured_title'] = 'Produtos em Destaque';
 	$dict['ES']['products_floating_title'] = 'Pisos Flotantes';
 	$dict['EN']['products_floating_title'] = 'Floating Floors';
 	$dict['BR']['products_floating_title'] = 'Soalho Flutuante';
@@ -124,5 +121,13 @@
 	$dict['ES']['icons_transport'] = 'Envios a todo el País';
 	$dict['EN']['icons_transport'] = 'Worldwide Shipping';
 	$dict['BR']['icons_transport'] = 'Comercializado em todo o País';
+
+	$dict['ES']['products_featured_title'] = 'Productos Destacados';
+	$dict['EN']['products_featured_title'] = 'Featured Products';
+	$dict['BR']['products_featured_title'] = 'Produtos em Destaque';
+
+	$dict['ES']['products_featured_kronofix_classic_description'] = '<li>Medidas: 1.285 x 192 x 7<li>Garantizado por 15 años<li>Aquastop 7mm<li>Eco Friendly<li>Fácil de colocar<li>Para uso intenso en áreas domésticas<li>AC3 Para uso moderado en áreas comerciales';
+	$dict['EN']['products_featured_kronofix_classic_description'] = '<li>Dimensions: 1,285 x 192 x 7<li>Guaranteed for 15 years<li>Aquastop 7mm<li>Eco Friendly<li>Easy to lay with: Twin clic<li>For heavy usage in domestic areas<li>AC3 For moderate usage in commercial areas';
+	$dict['BR']['products_featured_kronofix_classic_description'] = '<li>Dimensões: 1.285 x 192 x 7<li>Garantida por 15 anos<li>Aquastop 7mm<li>Eco Friendly<li>Fácil para anexar<li>Para o uso pesado em áreas domésticas<li>AC3 Para uso moderado em áreas comerciais';
 
 ?>

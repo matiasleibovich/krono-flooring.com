@@ -35,7 +35,7 @@
     <header id="header" class="nav-container">
         <!-- LOGO -->
         <div class="logo">
-            <a href="index.html">
+            <a href="/">
                 <img src="images/logo.png" alt="" />
             </a>
         </div>
@@ -45,7 +45,7 @@
         <nav>
             <ul class="nav">
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="/">Home</a>
                 </li>
                 <li>
                     <a href="#"><?=$dict[$_SESSION['language']]['our_floors_title']?></a>

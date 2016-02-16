@@ -25,6 +25,12 @@
 	$dict['ES']['home_title_porcelain'] = 'Porcelanato';
 	$dict['EN']['home_title_porcelain'] = 'Porcelain';
 	$dict['BR']['home_title_porcelain'] = 'Porcelana';
+	$dict['ES']['title_floating_floors'] = 'Pisos Flotantes';
+	$dict['EN']['title_floating_floors'] = 'Floating Floors';
+	$dict['BR']['title_floating_floors'] = 'Soalho Flutuante';
+	$dict['ES']['title_floor_models'] = 'Modelos Disponibles';
+	$dict['EN']['title_floor_models'] = 'Floating Floors';
+	$dict['BR']['title_floor_models'] = 'Available Floor Models';
 
 	$dict['ES']['contact_us_title'] = 'Cont&aacute;ctenos';
 	$dict['EN']['contact_us_title'] = 'Contact Us';
@@ -125,9 +131,16 @@
 	$dict['ES']['products_featured_title'] = 'Productos Destacados';
 	$dict['EN']['products_featured_title'] = 'Featured Products';
 	$dict['BR']['products_featured_title'] = 'Produtos em Destaque';
-
 	$dict['ES']['products_featured_kronofix_classic_description'] = '<li>Medidas: 1.285 x 192 x 7<li>Garantizado por 15 años<li>Aquastop 7mm<li>Eco Friendly<li>Fácil de colocar<li>Para uso intenso en áreas domésticas<li>AC3 Para uso moderado en áreas comerciales';
 	$dict['EN']['products_featured_kronofix_classic_description'] = '<li>Dimensions: 1,285 x 192 x 7<li>Guaranteed for 15 years<li>Aquastop 7mm<li>Eco Friendly<li>Easy to lay with: Twin clic<li>For heavy usage in domestic areas<li>AC3 For moderate usage in commercial areas';
 	$dict['BR']['products_featured_kronofix_classic_description'] = '<li>Dimensões: 1.285 x 192 x 7<li>Garantida por 15 anos<li>Aquastop 7mm<li>Eco Friendly<li>Fácil para anexar<li>Para o uso pesado em áreas domésticas<li>AC3 Para uso moderado em áreas comerciais';
+
+	$dict['ES']['products_featured_dankel_description'] = '<li>Medidas: 1.212 x 196 mm<li>Garantizado por 15 años<li>Espesor de 7.3mm<li>Click System, Fácil de colocar<li>AC3 Certificado<li>Alto Transito Residencial';
+	$dict['EN']['products_featured_dankel_description'] = '<li>Dimensions: 1,212 x 196 mm<li>Guaranteed for 15 years<li>Thickness 7.3mm<li>Click System, Easy to lay<li>AC3 Certified<li>For heavy usage in domestic areas';
+	$dict['BR']['products_featured_dankel_description'] = '<li>Dimensões: 1.212 x 196<li>Garantida por 15 anos<li>Espessura 7.3mm<li>Click System, Fácil para anexar<li>AC3 Certificado<li>Para o uso pesado em áreas domésticas';
+
+	$dict['ES']['products_kronofix_classic_description'] = 'El suelo laminado Kronofix classic no es solo bello al contemplarlo sino también fácil de cuidar. Kronofix classic aguanta sin ningún problema los retos del día a día, como por ejemplo manchas y arañazos. Su colocación es muy sencilla y da un resultado perfecto.';
+	$dict['EN']['products_kronofix_classic_description'] = 'Kronofix Classic is the ideal laminate flooring for today’s busy life. This Krono Original laminate flooring is lovely to look at, easy to care for and highly resistant to the scuffs and spills of everyday life. What’s more, Kronofix Classic is simplicity itself to install and offers a perfect result.';
+	$dict['BR']['products_kronofix_classic_description'] = 'Kronofix piso laminado clássico não é apenas bonita de se ver, mas também fácil de cuidar. Kronofix nenhum problema duradouro desafios clássicos da vida cotidiana, tais como manchas e arranhões. Sua colocação é simples e dá um resultado perfeito.';
 
 ?>

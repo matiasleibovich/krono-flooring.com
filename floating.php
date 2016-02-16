@@ -12,7 +12,7 @@
         <!-- SLIDER CONTAINER -->
         <div class="page-title-container">
             <div id="page-title-bg"></div>
-            <div id="page-title-text"><h1><?=$dict[$_SESSION['language']]['home_title_floors']?> <?=$dict[$_SESSION['language']]['home_title_floating']?></h1></div>
+            <div id="page-title-text"><h1><?=$dict[$_SESSION['language']]['title_floating_floors']?></h1></div>
         </div>
         <!-- PAGE CONTAINER -->
         <div class="page-block">
@@ -28,65 +28,23 @@
                         </div>
                         <!-- POST CONTENT -->
                         <div class="gallerycontent">
-                            <h4><a href="single-project.html">Kronofix Classic</a></h4>
+                            <h4><a href="kronofix_classic.php">Kronofix Classic</a></h4>
                             <p><?=$dict[$_SESSION['language']]['products_featured_kronofix_classic_description']?></p>
-                            <a href="single-project.html" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
+                            <a href="kronofix_classic.php" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
                         </div>
                     </article>
 
                     <!-- POST 2 -->
                     <article class="gallerycontainer right-img">
                         <!-- POST IMAGE -->
-                        <div class="galleryimage projectimage" data-image="images/photos/800x400.gif">
+                        <div class="galleryimage projectimage" data-image="images/photos/danek_800x400.jpg">
                             <a href="single-project.html"></a>
                         </div>
                         <!-- POST CONTENT -->
                         <div class="gallerycontent">
-                            <h4><a href="single-project.html">Vidisse est sint</a></h4>
-                            <p>In eram commodo. Ullamco ubi mandaremus et hic irure et fore, quae expetendis et vidisse qui aliqua graviterque mentitum sunt cupidatat, ex iudicem.</p>
-                            <a href="single-project.html" class="readmore-button">View Project</a>
-                        </div>
-                    </article>
-
-                    <!-- POST 3 -->
-                    <article class="gallerycontainer">
-                        <!-- POST IMAGE -->
-                        <div class="galleryimage projectimage" data-image="images/photos/800x400.gif">
-                            <a href="single-project.html"></a>
-                        </div>
-                        <!-- POST CONTENT -->
-                        <div class="gallerycontent">
-                            <h4><a href="single-project.html">De eram exercitat</a></h4>
-                            <p>Id nisi aliquip praetermissum. Cupidatat est esse, noster an quamquam non nulla. Cupidatat ea nostrud, irure nostrud pariatur, fugiat doctrina.</p>
-                            <a href="single-project.html" class="readmore-button">View Project</a>
-                        </div>
-                    </article>
-
-                    <!-- POST 4 -->
-                    <article class="gallerycontainer right-img">
-                        <!-- POST IMAGE -->
-                        <div class="galleryimage projectimage" data-image="images/photos/800x400.gif">
-                            <a href="single-project.html"></a>
-                        </div>
-                        <!-- POST CONTENT -->
-                        <div class="gallerycontent">
-                            <h4><a href="single-project.html">Ad nisi eu nisi</a></h4>
-                            <p>Aliquip e quibusdam. Nulla aliquip si cillum labore se sint ullamco instituendarum, se incurreret familiaritatem aut hic senserit arbitrantur cernantur.</p>
-                            <a href="single-project.html" class="readmore-button">View Project</a>
-                        </div>
-                    </article>
-
-                    <!-- POST 5 -->
-                    <article class="gallerycontainer">
-                        <!-- POST IMAGE -->
-                        <div class="galleryimage projectimage" data-image="images/photos/800x400.gif">
-                            <a href="single-project.html"></a>
-                        </div>
-                        <!-- POST CONTENT -->
-                        <div class="gallerycontent">
-                            <h4><a href="single-project.html">Ullamco praesentibus</a></h4>
-                            <p>Multos est nam multos admodum. Admodum aute incididunt se in et aute litteris ita qui sunt qui fore, quorum in deserunt ita quae. Id minim ex quorum do.</p>
-                            <a href="single-project.html" class="readmore-button">View Project</a>
+                            <h4><a href="single-project.html">Dankel Flooring</a></h4>
+                            <p><?=$dict[$_SESSION['language']]['products_featured_dankel_description']?></p>
+                            <a href="single-project.html" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
                         </div>
                     </article>
 
@@ -100,7 +58,6 @@
                     <?php require_once('slider-contact.php'); ?>
                     <?php require_once('slider-floors.php'); ?>
                     <?php require_once('slider-brands.php'); ?>
-                    <?php require_once('slider-videos.php'); ?>
 
                 </div>
             </aside>

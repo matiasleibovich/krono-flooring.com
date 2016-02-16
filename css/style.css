@@ -1469,3 +1469,14 @@ h2.resp-accordion {
     -ms-transform: rotate(360deg);
     transform: rotate(360deg);
 }
+
+
+.product-image-title {
+    color:black; 
+    text-decoration:bold; 
+    width:100%; 
+    position:relative; 
+    text-align:right; top:-30px;
+    padding-right: 20px;
+    font-size: 1.2em;
+}

@@ -108,9 +108,9 @@
 	$dict['EN']['catalog_update'] = 'We are currently updating our catalog, and it will available in a few days. Sorry for the inconvenience.';
 	$dict['BR']['catalog_update'] = 'No momento estamos atualizando nosso catálogo, que estará disponível nos próximos dias. Por favor, desculpe o inconveniente.';
 
-	$dict['ES']['copyright'] = 'Pisos Flotantes Krono Original';
-	$dict['EN']['copyright'] = 'Floating Floors Krono Original';
-	$dict['BR']['copyright'] = 'Soalho Flutuante Krono Original';
+	$dict['ES']['copyright'] = 'SEDAF International - Krono-Flooring es una marca comercial para la importación y distribución de pisos flotantes y revestimientos en América Latina.';
+	$dict['EN']['copyright'] = 'SEDAF International - Krono-Flooring is a trademark for the import and distribution of floating floors in Latin America.';
+	$dict['BR']['copyright'] = 'SEDAF International - Krono-Flooring é uma marca comercial para a importação e distribuição de revestimentos da América Latina.';
 
 	$dict['ES']['icons_ecology'] = 'Ecologico y Reciclable';
 	$dict['EN']['icons_ecology'] = 'Ecological and Recyclable';
@@ -146,13 +146,17 @@
 	$dict['ES']['products_featured_kronofix_classic_description'] = '<li>Medidas: 1.285 x 192 x 7<li>Garantizado por 15 años<li>Aquastop 7mm<li>Eco Friendly<li>Fácil de colocar<li>Para uso intenso en áreas domésticas<li>AC3 Para uso moderado en áreas comerciales';
 	$dict['EN']['products_featured_kronofix_classic_description'] = '<li>Dimensions: 1,285 x 192 x 7<li>Guaranteed for 15 years<li>Aquastop 7mm<li>Eco Friendly<li>Easy to lay with: Twin clic<li>For heavy usage in domestic areas<li>AC3 For moderate usage in commercial areas';
 	$dict['BR']['products_featured_kronofix_classic_description'] = '<li>Dimensões: 1.285 x 192 x 7<li>Garantida por 15 anos<li>Aquastop 7mm<li>Eco Friendly<li>Fácil para anexar<li>Para o uso pesado em áreas domésticas<li>AC3 Para uso moderado em áreas comerciais';
-
 	$dict['ES']['products_featured_dankel_description'] = '<li>Medidas: 1.212 x 196 mm<li>Garantizado por 15 años<li>Espesor de 7.3mm<li>Click System, Fácil de colocar<li>AC3 Certificado<li>Alto Transito Residencial';
 	$dict['EN']['products_featured_dankel_description'] = '<li>Dimensions: 1,212 x 196 mm<li>Guaranteed for 15 years<li>Thickness 7.3mm<li>Click System, Easy to lay<li>AC3 Certified<li>For heavy usage in domestic areas';
 	$dict['BR']['products_featured_dankel_description'] = '<li>Dimensões: 1.212 x 196<li>Garantida por 15 anos<li>Espessura 7.3mm<li>Click System, Fácil para anexar<li>AC3 Certificado<li>Para o uso pesado em áreas domésticas';
-
 	$dict['ES']['products_kronofix_classic_description'] = 'El suelo laminado Kronofix classic no es solo bello al contemplarlo sino también fácil de cuidar. Kronofix classic aguanta sin ningún problema los retos del día a día, como por ejemplo manchas y arañazos. Su colocación es muy sencilla y da un resultado perfecto.';
 	$dict['EN']['products_kronofix_classic_description'] = 'Kronofix Classic is the ideal laminate flooring for today’s busy life. This Krono Original laminate flooring is lovely to look at, easy to care for and highly resistant to the scuffs and spills of everyday life. What’s more, Kronofix Classic is simplicity itself to install and offers a perfect result.';
 	$dict['BR']['products_kronofix_classic_description'] = 'Kronofix piso laminado clássico não é apenas bonita de se ver, mas também fácil de cuidar. Kronofix nenhum problema duradouro desafios clássicos da vida cotidiana, tais como manchas e arranhões. Sua colocação é simples e dá um resultado perfeito.';
+	$dict['ES']['products_featured_castello_classic_description'] = '<li>Medidas: 1.285 x 192 x 8<li>Garantizado por 20 años<li>Aquastop 8mm<li>Eco Friendly<li>Fácil de colocar<li>Para uso intenso en áreas domésticas<li>AC4 Para uso normal en áreas comerciales';
+	$dict['EN']['products_featured_castello_classic_description'] = '<li>Dimensions: 1,285 x 192 x 8<li>Guaranteed for 20 years<li>Aquastop 8mm<li>Eco Friendly<li>Easy to lay with: Twin clic<li>For heavy usage in domestic areas<li>AC4 For normal usage in commercial areas';
+	$dict['BR']['products_featured_castello_classic_description'] = '<li>Dimensões: 1.285 x 192 x 8<li>Garantida por 20 anos<li>Aquastop 8mm<li>Eco Friendly<li>Fácil para anexar<li>Para o uso pesado em áreas domésticas<li>AC4 Para uso normal em áreas comerciais';
+	$dict['ES']['products_castello_classic_description'] = 'Aspecto distintivo de tablas para un estilo de vida de alto nivel. Con su gracia y su apariencia natural los suelos laminados de Castello Classic casi no se pueden diferenciar de la madera natural. Además de su aspecto exquisito también convencen por mantenimiento fácil.';
+	$dict['EN']['products_castello_classic_description'] = 'Rustic plank effect for a finer lifestyle. The exquisite Castello Classic floor perfectly emulates nature. With its realistic rustic texture and subtle surface structures you can actually feel, it’s almost impossible to tell the difference from actual wood. But, unlike the real thing, Castello Classic is easy to care for and keep clean, giving you enduring beauty for many years to come.';
+	$dict['BR']['products_castello_classic_description'] = 'Aparência distinta de tabelas para um estilo de vida de alto padrão. Com a sua graça e aparência natural, piso laminado Castello clássico difícil distinguir a partir de madeira natural. Além de sua aparência requintada também impressionar com fácil manutenção.';
 
 ?>

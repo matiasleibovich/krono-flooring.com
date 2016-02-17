@@ -20,13 +20,12 @@
             <div class="page-block-right">
                 <div class="page-block-inner">
                     
-                    <!-- POST 1 -->
+
                     <article class="gallerycontainer">
-                        <!-- POST IMAGE -->
                         <div class="galleryimage projectimage" data-image="images/photos/kronofix_classic_5167_honey_oak_700x700.jpg">
                             <a href="kronofix_classic.php"></a>
                         </div>
-                        <!-- POST CONTENT -->
+
                         <div class="gallerycontent">
                             <h4><a href="kronofix_classic.php">Kronofix Classic</a></h4>
                             <p><?=$dict[$_SESSION['language']]['products_featured_kronofix_classic_description']?></p>
@@ -34,17 +33,27 @@
                         </div>
                     </article>
 
-                    <!-- POST 2 -->
                     <article class="gallerycontainer right-img">
-                        <!-- POST IMAGE -->
                         <div class="galleryimage projectimage" data-image="images/photos/danek_800x400.jpg">
                             <a href="dankel.php"></a>
                         </div>
-                        <!-- POST CONTENT -->
+
                         <div class="gallerycontent">
                             <h4><a href="dankel.php">Dankel Flooring</a></h4>
                             <p><?=$dict[$_SESSION['language']]['products_featured_dankel_description']?></p>
                             <a href="dankel.php" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
+                        </div>
+                    </article>
+
+                    <article class="gallerycontainer">
+                        <div class="galleryimage projectimage" data-image="images/photos/castello_classic_4281_Roble_Sable_700x700.jpg">
+                            <a href="catello_classic.php"></a>
+                        </div>
+
+                        <div class="gallerycontent">
+                            <h4><a href="castello_classic.php">Castello Classic</a></h4>
+                            <p><?=$dict[$_SESSION['language']]['products_featured_castello_classic_description']?></p>
+                            <a href="kronofix_classic.php" class="readmore-button"><?=$dict[$_SESSION['language']]['more_info_link']?>...</a>
                         </div>
                     </article>
 

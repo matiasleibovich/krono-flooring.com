@@ -31,6 +31,15 @@
 	$dict['ES']['title_floor_models'] = 'Modelos Disponibles';
 	$dict['EN']['title_floor_models'] = 'Floating Floors';
 	$dict['BR']['title_floor_models'] = 'Available Floor Models';
+	$dict['ES']['title_vinyl_floors'] = 'Pisos Vin&iacute;licos';
+	$dict['EN']['title_vinyl_floors'] = 'Vinyl Floors';
+	$dict['BR']['title_vinyl_floors'] = 'Pisos de Vinil';
+	$dict['ES']['title_bamboo_floors'] = 'Pisos de Bamboo';
+	$dict['EN']['title_bamboo_floors'] = 'Bamboo Floors';
+	$dict['BR']['title_bamboo_floors'] = 'Os Assoalhos de Bambu';
+	$dict['ES']['title_porcelain_floors'] = 'Pisos de Porcelanato';
+	$dict['EN']['title_porcelain_floors'] = 'Porcelain Floors';
+	$dict['BR']['title_porcelain_floors'] = 'Pisos de Porcelanato';
 
 	$dict['ES']['contact_us_title'] = 'Cont&aacute;ctenos';
 	$dict['EN']['contact_us_title'] = 'Contact Us';
@@ -95,6 +104,9 @@
 	$dict['ES']['our_floors_krono'] = 'Pisos Flotantes Krono Original';
 	$dict['EN']['our_floors_krono'] = 'Floating Floors Krono Original';
 	$dict['BR']['our_floors_krono'] = 'Soalho Flutuante Krono Original';
+	$dict['ES']['catalog_update'] = 'En estos momentos estamos actualizando nuestro cat&aacute;logo, el cual va a estar disponible en los pr&oacute;ximos d&iacute;as. Por favor disculpe las molestias.';
+	$dict['EN']['catalog_update'] = 'We are currently updating our catalog, and it will available in a few days. Sorry for the inconvenience.';
+	$dict['BR']['catalog_update'] = 'No momento estamos atualizando nosso catálogo, que estará disponível nos próximos dias. Por favor, desculpe o inconveniente.';
 
 	$dict['ES']['copyright'] = 'Pisos Flotantes Krono Original';
 	$dict['EN']['copyright'] = 'Floating Floors Krono Original';

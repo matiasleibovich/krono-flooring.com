@@ -40,6 +40,9 @@
 	$dict['ES']['title_porcelain_floors'] = 'Pisos de Porcelanato';
 	$dict['EN']['title_porcelain_floors'] = 'Porcelain Floors';
 	$dict['BR']['title_porcelain_floors'] = 'Pisos de Porcelanato';
+	$dict['ES']['home_title_catalog'] = 'Cat&aacute;logo';
+	$dict['EN']['home_title_catalog'] = 'Catalog';
+	$dict['BR']['home_title_catalog'] = 'Cat&aacute;logo';
 
 	$dict['ES']['contact_us_title'] = 'Cont&aacute;ctenos';
 	$dict['EN']['contact_us_title'] = 'Contact Us';

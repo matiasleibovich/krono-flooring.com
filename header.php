@@ -65,6 +65,9 @@
                     </ul>
                 </li>
                 <li>
+                    <a href="KRONO-FLOORING-ARG.pdf"><?=$dict[$_SESSION['language']]['home_title_catalog']?></a>
+                </li>
+                <li>
                     <a href="contact.php"><?=$dict[$_SESSION['language']]['contact_us_title']?></a>
                 </li>
                 <li>

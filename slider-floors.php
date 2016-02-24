@@ -10,4 +10,8 @@
 								<li><a href="porcelain.php"><?=$dict[$_SESSION['language']]['products_porcelain_title']?></a></li>
                             </ul>
                         </nav>
+
+                        <div style="text-align:right; padding-top: 20px;">
+                        	<a href="KRONO-FLOORING-ARG.pdf"><img src="images/catalog.jpg" border=0 style="box-shadow: 5px 5px 5px #000;"></a>
+                        </div>
                     </div>

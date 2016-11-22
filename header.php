@@ -68,7 +68,7 @@
                     <a href="files/KRONO-FLOORING-Catalogo-2016-SD.pdf"><?=$dict[$_SESSION['language']]['home_title_catalog']?></a>
                 </li>
                 <li>
-                    <a href="contact.php"><?=$dict[$_SESSION['language']]['contact_us_title']?></a>
+                    <a href="#contact-slider-na"><?=$dict[$_SESSION['language']]['contact_us_title']?></a>
                 </li>
                 <li>
                     <a href="?language=ES" style="display:table-cell; padding:5px 5px; color:white; background-color: #006;"><b>ES</b></a>

@@ -16,7 +16,7 @@
 	$dict['ES']['home_title_floating'] = 'Flotantes';
 	$dict['EN']['home_title_floating'] = 'Floating';
 	$dict['BR']['home_title_floating'] = 'Flutuante';
-	$dict['ES']['home_title_vinyl'] = 'Vinicilos';
+	$dict['ES']['home_title_vinyl'] = 'Vinilicos';
 	$dict['EN']['home_title_vinyl'] = 'Vinyl';
 	$dict['BR']['home_title_vinyl'] = 'Vinil';
 	$dict['ES']['home_title_bamboo'] = 'de Bamboo';

@@ -65,6 +65,9 @@
                     </ul>
                 </li>
                 <li>
+                    <a href="/puertas/index.html"><?=$dict[$_SESSION['language']]['puertas_de_seguridad']?></a>
+                </li>
+                <li>
                     <a href="files/KRONO-FLOORING-Catalogo-2016-SD.pdf"><?=$dict[$_SESSION['language']]['home_title_catalog']?></a>
                 </li>
                 <li>

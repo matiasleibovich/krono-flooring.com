@@ -162,4 +162,8 @@
 	$dict['EN']['products_castello_classic_description'] = 'Rustic plank effect for a finer lifestyle. The exquisite Castello Classic floor perfectly emulates nature. With its realistic rustic texture and subtle surface structures you can actually feel, it’s almost impossible to tell the difference from actual wood. But, unlike the real thing, Castello Classic is easy to care for and keep clean, giving you enduring beauty for many years to come.';
 	$dict['BR']['products_castello_classic_description'] = 'Aparência distinta de tabelas para um estilo de vida de alto padrão. Com a sua graça e aparência natural, piso laminado Castello clássico difícil distinguir a partir de madeira natural. Além de sua aparência requintada também impressionar com fácil manutenção.';
 
+	$dict['ES']['puertas_de_seguridad'] = 'Puertas de Seguridad';
+	$dict['EN']['puertas_de_seguridad'] = 'Security Doors';
+	$dict['BR']['puertas_de_seguridad'] = 'Portas de Segurança';
+
 ?>

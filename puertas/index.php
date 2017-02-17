@@ -72,8 +72,8 @@
                             <ul>
                            		<li><a href="#home">Inicio</a></li>
                                 <li><a href="#puertas">Nuestras Puertas</a></li>
-                                <li><a href="#products">Características</a></li>
-                                <li><a href="#portfolio">Galería</a></li>
+                                <li><a href="#products">Caracter&iacute;sticas</a></li>
+                                <li><a href="#portfolio">Galer&iacute;a</a></li>
                                 <li><a href="#contact">Contactanos</a></li>
                             </ul>
                         </nav>
@@ -156,7 +156,7 @@
                                         <figure>
                                             <img src="assets/images/negra001.jpg" alt="" class="img-responsive">
                                             <figcaption>
-                                                <p>Mirador óptico 180º. Chapa de Acero 18 con pintura a horno. Interior con material ignífugo. Manijón y picaporte en bronce platil. 7 llaves computadas. Pasador interno de seguridad. Cerradura multianclaje de 12 pernos. Contra marco incluído. Umbral de acero reforzado.</p>
+                                                <p>Mirador &oacute;ptico 180&#176;. Chapa de Acero 18 con pintura a horno. Interior con material ign&iacute;fugo. Manij&oacute;n y picaporte en bronce platil. 7 llaves computadas. Pasador interno de seguridad. Cerradura multianclaje de 12 pernos. Contra marco inclu&iacute;do. Umbral de acero reforzado.</p>
                                                 
                                             </figcaption>
                                         </figure>
@@ -171,7 +171,7 @@
                                         <figure>
                                             <img src="assets/images/blanca001.jpg" alt="" class="img-responsive">
                                             <figcaption>
-                                                <p>Mirador óptico 180º. Chapa de Acero 18 con pintura a horno. Interior con material ignífugo. Manijón y picaporte en bronce platil. 7 llaves computadas. Pasador interno de seguridad. Cerradura multianclaje de 12 pernos. Contra marco incluído. Umbral de acero reforzado.</p>
+                                                <p>Mirador &oacute;ptico 180&#176;. Chapa de Acero 18 con pintura a horno. Interior con material ign&iacute;fugo. Manij&oacute;n y picaporte en bronce platil. 7 llaves computadas. Pasador interno de seguridad. Cerradura multianclaje de 12 pernos. Contra marco inclu&iacute;do. Umbral de acero reforzado.</p>
                                                 
                                             </figcaption>
                                         </figure>
@@ -185,10 +185,10 @@
                                         <figure>
                                             <img src="assets/images/madera001.jpg" alt="" class="img-responsive">
                                             <figcaption>
-                                                <p>Mirador óptico 180º. Chapa de Acero 18 con pintura a horno. Interior antifuego. Manijón y picaporte en bronce patil. 7 llaves computadas. Pasador de seguridad. Cerradura multianclaje de 12 pernos. Contra marco incluído. Umbral de acero reforzado. 4 bisagras embutidas antibarreta.</p>
+                                                <p>Mirador &oacute;ptico 180&#176;. Chapa de Acero 18 con pintura a horno. Interior antifuego. Manij&oacute;n y picaporte en bronce patil. 7 llaves computadas. Pasador de seguridad. Cerradura multianclaje de 12 pernos. Contra marco inclu&iacute;do. Umbral de acero reforzado. 4 bisagras embutidas antibarreta.</p>
                                             </figcaption>
                                         </figure>
-                                        <h4>Modelo Símil MADERA</h4>
+                                        <h4>Modelo S&iacute;mil MADERA</h4>
                                         <p><a href="#products2" class="btn btn-default btn-lg">+info</a></p>
                                     </div><!-- /.team-member -->
                                 </div><!-- /.col-md-4 -->
@@ -198,7 +198,7 @@
                                         <figure>
                                             <img src="assets/images/rusa001.jpg" alt="" class="img-responsive">
                                             <figcaption>
-                                                <p>Mirador óptico 180º. Chapa de Acero 18 c/pintura a horno. Interior antifuego. Doble picaporte en bronce patil. Llaves computadas. Cerrojo adicional. Contra marco incluído. Umbral de acero reforzado. Bisagras reforzadas. Terminación en Acero negro (interior) y PVC madera (exterior).</p>
+                                                <p>Mirador &oacute;ptico 180&#176;. Chapa de Acero 18 c/pintura a horno. Interior antifuego. Doble picaporte en bronce patil. Llaves computadas. Cerrojo adicional. Contra marco inclu&iacute;do. Umbral de acero reforzado. Bisagras reforzadas. Terminaci&oacute;n en Acero negro (interior) y PVC madera (exterior).</p>
                                                 
                                             </figcaption>
                                         </figure>
@@ -228,7 +228,7 @@
                             <div class="products-container">
 
                                 <div class="col-md-12">
-                                    <h2>Modelo NEGRO: Características</h2>
+                                    <h2>Modelo NEGRO: Caracter&iacute;sticas</h2>
                                     
                                 </div><!-- /.col-md-12 -->
 
@@ -237,8 +237,8 @@
                                         <span class="icon"><i class="fa fa-eye fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Estético y Funcional</h3>
-                                        <p>Mirador óptico 180º. Manijón externo y picaporte interior en bronce patil.</p>
+                                        <h3 class="media-heading">Est&eacute;tico y Funcional</h3>
+                                        <p>Mirador &oacute;ptico 180&#176;. Manij&oacute;n externo y picaporte interior en bronce patil.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -248,7 +248,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Calidad y Seguridad</h3>
-                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material ignífugo. Pasador interno de seguridad.</p>
+                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material ign&iacute;fugo. Pasador interno de seguridad.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -258,7 +258,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Alta Calidad</h3>
-                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian código. Contra marco incluído.</p>
+                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian c&oacute;digo. Contra marco inclu&iacute;do.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -267,7 +267,7 @@
                                         <span class="icon"><i class="fa fa-shield fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Máxima Protección</h3>
+                                        <h3 class="media-heading">M&aacute;xima Protecci&oacute;n</h3>
                                         <p>Umbral de acero reforzado. Triple contacto con burlete perimetral. 4 bisagras embutidas antibarreta.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
@@ -287,8 +287,8 @@
                                         <span class="icon"><i class="fa fa-truck fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Cuidado del Envío</h3>
-                                        <p>Protejemos el producto con doble embalaje de cartón, plástico para envíos y acopio de obra.</p>
+                                        <h3 class="media-heading">Cuidado del Env&iacute;o</h3>
+                                        <p>Protejemos el producto con doble embalaje de cart&oacute;n, pl&aacute;stico para env&iacute;os y acopio de obra.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -327,7 +327,7 @@
                             <div class="products-container">
 
                                 <div class="col-md-12">
-                                    <h2>Modelo BLANCO: Características</h2>
+                                    <h2>Modelo BLANCO: Caracter&iacute;sticas</h2>
                                     
                                 </div><!-- /.col-md-12 -->
 
@@ -336,8 +336,8 @@
                                         <span class="icon"><i class="fa fa-eye fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Estético y Funcional</h3>
-                                        <p>Mirador óptico 180º. Manijón externo y picaporte interior en bronce patil.</p>
+                                        <h3 class="media-heading">Est&eacute;tico y Funcional</h3>
+                                        <p>Mirador &oacute;ptico 180&#176;. Manij&oacute;n externo y picaporte interior en bronce patil.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -347,7 +347,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Calidad y Seguridad</h3>
-                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material ignífugo. Pasador interno de seguridad.</p>
+                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material ign&iacute;fugo. Pasador interno de seguridad.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -357,7 +357,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Alta Calidad</h3>
-                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian código. Contra marco incluído.</p>
+                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian c&oacute;digo. Contra marco inclu&iacute;do.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -366,7 +366,7 @@
                                         <span class="icon"><i class="fa fa-shield fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Máxima Protección</h3>
+                                        <h3 class="media-heading">M&aacute;xima Protecci&oacute;n</h3>
                                         <p>Umbral de acero reforzado. Triple contacto con burlete perimetral. 4 bisagras embutidas antibarreta.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
@@ -386,8 +386,8 @@
                                         <span class="icon"><i class="fa fa-truck fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Cuidado del Envío</h3>
-                                        <p>Protejemos el producto con Doble embalaje de cartón, plástico para envíos y acopio de obra.</p>
+                                        <h3 class="media-heading">Cuidado del Env&iacute;o</h3>
+                                        <p>Protejemos el producto con Doble embalaje de cart&oacute;n, pl&aacute;stico para env&iacute;os y acopio de obra.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -423,7 +423,7 @@
                             <div class="products-container">
 
                                 <div class="col-md-12">
-                                    <h2>Modelo Símil MADERA: Características</h2>
+                                    <h2>Modelo S&iacute;mil MADERA: Caracter&iacute;sticas</h2>
                                     <!--h3 class="caption white">Ultricestum urna litora sit sed praesent condimentum eu a et scelerisque--/h3>
                                 </div><!-- /.col-md-12 -->
 
@@ -432,8 +432,8 @@
                                         <span class="icon"><i class="fa fa-eye fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Estético y Funcional</h3>
-                                        <p>Mirador óptico 180º. Manijón externo y picaporte interior en bronce patil.</p>
+                                        <h3 class="media-heading">Est&eacute;tico y Funcional</h3>
+                                        <p>Mirador &oacute;ptico 180&#176;. Manij&oacute;n externo y picaporte interior en bronce patil.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -443,7 +443,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Calidad y Seguridad</h3>
-                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material antifuego de roca volcánica. Pasador interno de seguridad.</p>
+                                        <p>Chapa de Acero 18 con pintura a horno. Interior con material antifuego de roca volc&aacute;nica. Pasador interno de seguridad.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -453,7 +453,7 @@
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Alta Calidad</h3>
-                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian código. Contra marco incluído.</p>
+                                        <p>Cerradura multianclaje de 12 pernos. 7 llaves computadas con 2 de obra que cambian c&oacute;digo. Contra marco inclu&iacute;do.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -462,7 +462,7 @@
                                         <span class="icon"><i class="fa fa-shield fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Máxima Protección</h3>
+                                        <h3 class="media-heading">M&aacute;xima Protecci&oacute;n</h3>
                                         <p>Umbral de acero reforzado. Triple contacto con burlete perimetral. 4 bisagras embutidas antibarreta.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
@@ -482,8 +482,8 @@
                                         <span class="icon"><i class="fa fa-truck fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Cuidado del Envío</h3>
-                                        <p>Doble embalaje de cartón, plástico para envíos y acopio de obra.</p>
+                                        <h3 class="media-heading">Cuidado del Env&iacute;o</h3>
+                                        <p>Doble embalaje de cart&oacute;n, pl&aacute;stico para env&iacute;os y acopio de obra.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -518,7 +518,7 @@
                             <div class="products-container">
 
                                 <div class="col-md-12">
-                                    <h2>Modelo RUSO: Características</h2>
+                                    <h2>Modelo RUSO: Caracter&iacute;sticas</h2>
                                     <!--h3 class="caption white">Ultricestum urna litora sit sed praesent condimentum eu a et scelerisque--/h3>
                                 </div><!-- /.col-md-12 -->
 
@@ -527,8 +527,8 @@
                                         <span class="icon"><i class="fa fa-eye fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Estético y Funcional</h3>
-                                        <p>Mirador óptico 180º. Doble picaporte en bronce patil. Terminación en Acero negro (interior) y PVC madera (exterior).</p>
+                                        <h3 class="media-heading">Est&eacute;tico y Funcional</h3>
+                                        <p>Mirador &oacute;ptico 180&#176;. Doble picaporte en bronce patil. Terminaci&oacute;n en Acero negro (interior) y PVC madera (exterior).</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -539,7 +539,7 @@
                                     <div class="media-body">
                                         <h3 class="media-heading">Calidad y Seguridad</h3>
                                         <p>Chapa de Acero 18 con pintura a horno.
-Interior con material antifuego de roca volcánica. Pasador interno de seguridad.</p>
+Interior con material antifuego de roca volc&aacute;nica. Pasador interno de seguridad.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -549,7 +549,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
                                         <h3 class="media-heading">Alta Calidad</h3>
-                                        <p>Llaves computadas de seguridad. Cerrojo adicional con llave tipo "Trabex".Contra marco incluído.</p>
+                                        <p>Llaves computadas de seguridad. Cerrojo adicional con llave tipo "Trabex".Contra marco inclu&iacute;do.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -558,7 +558,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                                         <span class="icon"><i class="fa fa-shield fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Máxima Protección</h3>
+                                        <h3 class="media-heading">M&aacute;xima Protecci&oacute;n</h3>
                                         <p>Umbral de acero reforzado. Doble contacto con burlete perimetral. Bisagras reforzadas.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
@@ -578,8 +578,8 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                                         <span class="icon"><i class="fa fa-truck fa-3x"></i></span>
                                     </div><!-- /.media-left -->
                                     <div class="media-body">
-                                        <h3 class="media-heading">Cuidado del Envío</h3>
-                                        <p>Doble embalaje de cartón, plástico para envíos y acopio de obra.</p>
+                                        <h3 class="media-heading">Cuidado del Env&iacute;o</h3>
+                                        <p>Doble embalaje de cart&oacute;n, pl&aacute;stico para env&iacute;os y acopio de obra.</p>
                                     </div><!-- /.media-body -->
                                 </div><!-- /.col-md-6 -->
 
@@ -610,7 +610,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
-                            <h2>Galería</h2>
+                            <h2>Galer&iacute;a</h2>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
                 </div><!-- /.container -->
@@ -624,7 +624,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -637,7 +637,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -650,7 +650,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -663,7 +663,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -676,7 +676,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -689,7 +689,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -702,7 +702,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo BLANCO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products">Características</a></li>
+                                    <li><a href="#products">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -715,92 +715,92 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera01.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera01.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera01.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
 
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera02.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera02.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera02.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
 
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera03.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera03.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera03.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
 
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera04.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera04.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera04.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
                         
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera05.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera05.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera05.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
                         
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera06.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera06.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera06.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
                         
                         <div class="item recent-project wow fadeIn" data-wow-offset="10">
                             <img src="assets/images/gallery/madera/madera07.jpg" alt="">
                             <div class="project-info">
-                                <h3>Símil MADERA</h3>
+                                <h3>S&iacute;mil MADERA</h3>
 
                                 <ul class="project-meta">
-                                    <li><a href="#products2">Características</a></li>
+                                    <li><a href="#products2">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
-                                <a href="assets/images/gallery/madera/xl/madera07.jpg" title="Modelo Símil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
+                                <a href="assets/images/gallery/madera/xl/madera07.jpg" title="Modelo S&iacute;mil Madera">ver foto<i class="fa fa-chevron-right"></i></a>
                             </div><!-- /.full-project -->
                         </div><!-- /.item -->
                         
@@ -810,7 +810,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -823,7 +823,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -836,7 +836,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -849,7 +849,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -862,7 +862,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -875,7 +875,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -888,7 +888,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -901,7 +901,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -914,7 +914,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -927,7 +927,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo RUSO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products3">Características</a></li>
+                                    <li><a href="#products3">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -940,7 +940,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -953,7 +953,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -966,7 +966,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -979,7 +979,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -992,7 +992,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -1005,7 +1005,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -1018,7 +1018,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -1031,7 +1031,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                             <div class="project-info">
                                 <h3>Modelo NEGRO</h3>
                                 <ul class="project-meta">
-                                    <li><a href="#products1">Características</a></li>
+                                    <li><a href="#products1">Caracter&iacute;sticas</a></li>
                                 </ul>
                             </div><!-- /.project-info -->
                             <div class="full-project">
@@ -1060,9 +1060,9 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-6 wow slideInLeft" data-wow-offset="10">
-                            <h2>Atención Personalizada</h2>
+                            <h2>Atenci&oacute;n Personalizada</h2>
                            
-                            <p>Estamos a disposición para resolver tus inquietudes.</p>
+                            <p>Estamos a disposici&oacute;n para resolver tus inquietudes.</p>
 
                             <a href="#contact" class="btn btn-default btn-lg">¿preguntas?</a>
                             <a href="#contact" class="btn btn-outlined btn-lg">contactanos</a>
@@ -1097,7 +1097,7 @@ Interior con material antifuego de roca volcánica. Pasador interno de seguridad.
                                     <input type="email" class="form-control" id="email" name="email" placeholder="E-mail" value="" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="phone" class="form-control" id="phone" name="phone" placeholder="Teléfono" value="" required>
+                                    <input type="phone" class="form-control" id="phone" name="phone" placeholder="Tel&eacute;fono" value="" required>
                                 </div>
                                 <div class="form-group">
                                     <textarea class="form-control" rows="4" name="message" placeholder="Mensaje" required></textarea>
